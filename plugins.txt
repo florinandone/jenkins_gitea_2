@@ -18,6 +18,7 @@ font-awesome-api:6.4.0-2
 git:5.2.0
 git-client:4.4.0
 gitea:1.4.5
+google-oauth-plugin:1.0.9
 handy-uri-templates-2-api:2.1.8-22.v77d5b_75e6953
 instance-identity:173.va_37c494ec4e5
 ionicons-api:56.v1b_1c8c49374e
@@ -33,6 +34,7 @@ mailer:463.vedf8358e006b_
 matrix-project:802.v8013b_40c7edc
 mina-sshd-api-common:2.10.0-69.v28e3e36d18eb_
 mina-sshd-api-core:2.10.0-69.v28e3e36d18eb_
+oauth-credentials:0.645.ve666a_c332668
 plain-credentials:143.v1b_df8b_d3b_e48
 plugin-util-api:3.3.0
 scm-api:676.v886669a_199a_a_
@@ -49,3 +51,4 @@ workflow-multibranch:756.v891d88f2cd46
 workflow-scm-step:415.v434365564324
 workflow-step-api:639.v6eca_cd8c04a_a_
 workflow-support:848.v5a_383b_d14921
+
