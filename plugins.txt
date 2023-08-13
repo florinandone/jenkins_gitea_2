@@ -69,6 +69,7 @@ plugin-util-api:3.3.0
 resource-disposer:0.23
 scm-api:676.v886669a_199a_a_
 script-security:1264.vecf66020eb_7d
+simple-queue:1.4.3
 snakeyaml-api:1.33-95.va_b_a_e3e47b_fa_4
 ssh-agent:333.v878b_53c89511
 ssh-credentials:308.ve4497b_ccd8f4
